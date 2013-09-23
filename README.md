@@ -1,4 +1,4 @@
-gipsy-poll
+Gipsy Poll
 ==========
 
 GIPSY - Professional Poll Management
