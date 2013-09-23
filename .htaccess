@@ -1,0 +1,2 @@
+AuthName "GIPSY"
+AuthUserFile "/home/wtoolsir/.htpasswds/public_html/codeigniterproject/passwd"

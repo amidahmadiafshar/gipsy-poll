@@ -1,0 +1,74 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+#response {
+	padding:16px 0;
+	display:none;
+}
+#ajax_loading {
+	display:none;
+}
+#logout_div {
+	float:right;
+	padding:10px;
+}
+#logout_response {
+	display:none;
+}
+.remove_admin_add_poll_answer {
+	float:right;
+}
+input[type="checkbox"], input[type="radio"] {
+	display:none;
+}
+.list-group-item {
+	cursor:pointer;
+}
+.progress {
+	margin-bottom:0 !important;
+}
+.sr-only {
+	position:relative !important;
+}
+#add_admin_add_poll_answer:hover, #add_admin_add_poll_answer:focus {
+	text-decoration:none;
+}
+.remove_admin_add_poll_answer:hover, .remove_admin_add_poll_answer:focus {
+	text-decoration:none;
+}
