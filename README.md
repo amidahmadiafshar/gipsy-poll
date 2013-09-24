@@ -1,9 +1,9 @@
 gipsy-poll
 ==========
 
-GIPSY - Professional Poll Management
+GIPSY - Professional Poll Management for Codeigniter.
 
-Professional poll management.
+Professional poll management Codeigniter.
 
 Features :
 1. admin management panel (with permission to edit poll).
